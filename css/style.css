@@ -1,15 +1,15 @@
 .nav-list {
     display: flex;
     list-style: none;
+    justify-content: space-evenly;
+    padding: 0;
 }
 
 nav a {
     text-decoration: none;
     color: white;
-    display: block;
     text-transform: uppercase;
-    padding: 1em;
-    border: 1px solid white;
+    font-size: .9em;
 }
 
 nav a:hover {
@@ -23,21 +23,25 @@ nav a:hover {
         top: 0;
         left: 0;
         width: 100%;
-        box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
         background-color: gray;
         margin: 0;
         padding: 0;
     }
 
+    .container {
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .container > img {
+        margin-top: 20px;
+        width: 70%;
+    }
 
 }
 
 /* 
-
-img {
-  width: 100px;
-  height: auto;
-}
 
 .sign-up-page {
   height: 200px;
