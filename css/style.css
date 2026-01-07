@@ -47,10 +47,15 @@ nav a:hover {
 .creations_container {
     width: 87%;
     margin: 0 auto;
-    border: 1px solid black;
+    
     padding: 1.5em;
     color: white;
     background-color: rgba(60,56,53);
+}
+
+.about {
+    width: 90%;
+    margin: 0 auto;
 }
 
 @media (min-width: 300px) and (max-width: 500px) {
