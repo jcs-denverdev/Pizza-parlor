@@ -1,8 +1,7 @@
 # Pizza Parlor
 This project was one of my firsts in front-end web development. It is a landing page for my fictitious pizza restaurant.
 
-**Link to project:** 
-
+**Link to project:** https://jcs-denverdev.github.io/Pizza-parlor/
 
 ## How It's Made:
 **Tech used:** HTML, CSS
